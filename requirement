@@ -1,1 +1,7 @@
-
+Identify feature:Circulation management,Catalog management,Online access,Search function,Flexibility.
+State of art:A Library management system is a software that uses to maintain the record of the library. ... Library Management Systems is software that helps to maintain a database that is useful to enter new books & record books borrowed by the members, with the respective submission dates
+Identifying requirements:
+4 W and 1 H:Reliability,Flexibility,Security,Easy to access,utilise the  modern technologies easy to access.
+SWOT analysis:Our strength is our curiosity and need to learn,weakness is only librarians can access,Library management system is a resource planning and enterprise management software, used to operate and manage the huge amount of data generated from libraries and threat is  Online Systems require high-speed internet connectivity.
+Derive High level Requriments:Maintaining the database for entering new books and keeping record of borrowed books with due dates.
+Derive Low level Requriments:Technical details, data manipulation and processing 
