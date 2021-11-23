@@ -28,7 +28,7 @@ The Key features of Library management system are:
 ## SWOT Analysis:
 
 
-![Screenshot (289)](F:\swot.png)
+![Screenshot (289)](https://app.creately.com/diagram/L8gH3q3d4bd/view)
 
 
 
