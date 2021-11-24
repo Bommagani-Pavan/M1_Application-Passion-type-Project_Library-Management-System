@@ -44,7 +44,7 @@ The Key features of Library management system are:
 
 Who
 ---------------------------------------------------------------------------------
- Librarians can access the library management system .
+ user can access the library management system .
 
 What
 ---------------------------------------------------------------------------------
@@ -52,7 +52,7 @@ The project is main aim is to Online access and to digitally keep track of what 
 
 When
 ---------------------------------------------------------------------------------
- Librarians can access the library management system because the  is based on c language.
+ user can access the library management system because the  is based on c language.
 
 Why
 ---------------------------------------------------------------------------------
@@ -61,7 +61,11 @@ The project is mainly about  librarians can access and digitally keep track of w
 How
 --------------------------------------------------------------------------------
 The user can take the library management system by entering his book name.
+--------------------------------------------------------------------------------
+## DESIGNS
 
-
-
+STRUCTURE
+![Screenshot (289)](STRUCTURE .png)
+BEHAVIOURAL
+![Screenshot (289)](BEHAVIOURAL DIAGRAM.png))
 
