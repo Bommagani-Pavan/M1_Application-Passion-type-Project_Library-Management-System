@@ -62,10 +62,4 @@ How
 --------------------------------------------------------------------------------
 The user can take the library management system by entering his book name.
 --------------------------------------------------------------------------------
-## DESIGNS
-
-STRUCTURE
-![Screenshot (289)](STRUCTURE .png)
-BEHAVIOURAL
-![Screenshot (289)](BEHAVIOURAL DIAGRAM.png))
 
