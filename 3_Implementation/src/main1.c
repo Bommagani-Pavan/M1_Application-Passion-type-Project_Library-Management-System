@@ -27,6 +27,13 @@ void edit_book();
 
 void main()
 {
+    printf("\n\t\t\t        =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+    printf("\n\t\t\t        =                 WELCOME                   =");
+    printf("\n\t\t\t        =                   TO                      =");
+    printf("\n\t\t\t        =                 LIBRARY                   =");
+    printf("\n\t\t\t        =               MANAGEMENT                  =");
+    printf("\n\t\t\t        =                 SYSTEM                    =");
+    printf("\n\t\t\t        =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
 	printf("\n1.  Add a new book\n");
 	printf("\n2.  Search a book\n");
 	printf("\n3.  Exit\n");
@@ -153,7 +160,7 @@ void search_by_cat()
 {
 	char cate[50];
 	printf("\nEnter the category:\n");
-	scanf("%s",&cate);
+	//scanf("%s",&cate);
 	for(i=0;i<NO_OF_BOOKS;i++)
 	{
 		if (strcmp(cate,book[i].cat)==0)
@@ -240,7 +247,7 @@ void edit_book()
 				scanf("%s",book[book_no].cat);
 				break;
 		case 5: printf("\nIs the book available (y/n):");
-				scanf("%s",a);
+				//scanf("%s",a);
 				book[book_no].flag=1;
 				if (a=='y' || a=='Y')
 				{
