@@ -60,6 +60,6 @@ The project is mainly about  librarians can access and digitally keep track of w
 
 How
 --------------------------------------------------------------------------------
-The user can take the library management system by entering his book name.
+By using the c programming language we generate libaray management system
 --------------------------------------------------------------------------------
 
