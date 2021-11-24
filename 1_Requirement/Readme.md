@@ -1,9 +1,9 @@
 
-Requirements
+## Requirements
 <br>
 <br>
 
-Introduction:
+## Introduction:
 <br>
 
 Library management system is a simple application using c programming language.A Library management system  uses to maintain the record of the library. ... Library Management Systems is software that helps to maintain a database that is useful to enter new books & record books borrowed by the members, with the respective submission dates.It is complied in Visual Studio code using GCC compiler.
