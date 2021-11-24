@@ -3,7 +3,7 @@ BEHAVIOURAL DIAGRAM:-
 
 BEHAVIOURAL DIAGRAM(high level)
 
-![1](https://user-images.githubusercontent.com/70369948/143248593-b0ecc57f-d66b-4a27-8622-9fa40e59f2a9.jpg)
+![1](STRUCTURE .png)
 
 
 structural diagram
