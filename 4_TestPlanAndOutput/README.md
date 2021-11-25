@@ -6,7 +6,7 @@
 
 | ID | Description | Expected I/P | Expected O/P | Actual O/P | Type of Test |
 |----|----------------------|-------------|-------------|-------------|--------------|
-|HP01|user interface| Character y| Enter the name  | Pass| Requirement |
+|HP01|Check if Menu is Displayed  |Show Created Database | Database page   |Show Database page|| Requirement |
 
 
 <br>
@@ -18,6 +18,6 @@
 
 |ID| Description | Expected I/P | Expected O/P| Actual O/P | Type of Test|
 |----|------------------------|---------------|--------------|---------------|---------------|
-|LP01| user view all the rules of the Application| Character y| Views all rules and exits | Pass | Requirement|
-|LP02| user has an option to exit| character N|Exits |Pass| Requirement|
-|LP03| user access and to digitally keep track of what is available in the library |char y| Opens results|Pass| Requirement|
+|LP01|Adding Entry  |Details to Enter | Details added Successfully | Details added Successfully | Requirement|
+|LP02|Search Entry|Enter ID no. |If present Display, if not say not found | If present Display, if not say not found| Requirement|
+|LP03|Deleting entry|Enter ID no. |If present delete, if not say not found| |If present delete, if not say not found| Requirement|
