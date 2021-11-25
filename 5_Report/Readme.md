@@ -64,4 +64,14 @@ By using the c programming language we generate libaray management system
 
 
 ## Design
-![STRUCTURE ](https://user-images.githubusercontent.com/94338784/143382565-f15d24b9-d258-464c-98a5-9c5d28740ad5.png)
+## Behavioural Diagram:
+
+![Untitled Workspace](https://user-images.githubusercontent.com/94338784/143384917-f5bb5c33-4336-42c5-b555-7e1fcb8b13f1.png)
+## Structure Diagram:
+
+![BEHAVIOURAL DIAGRAM](https://user-images.githubusercontent.com/94338784/143385149-6ce37d2d-8d2c-42f7-a1d8-16e93194b9e3.png)
+
+
+
+
+
