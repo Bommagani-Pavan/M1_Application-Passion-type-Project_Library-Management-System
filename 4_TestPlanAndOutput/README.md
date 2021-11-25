@@ -20,4 +20,4 @@
 |----|------------------------|---------------|--------------|---------------|
 |LP01|Adding Entry  |Details to Enter | Details added Successfully | Details added Successfully |
 |LP02|Search Entry|Enter ID no. |If present Display, if not say not found | If present Display, if not say not found|
-|LP03|Deleting entry|Enter ID no. |If present delete, if not say not found| |If present delete, if not say not found|
+|LP03|Deleting entry||Enter ID no. |If present delete, if not say not found| |If present delete, if not say not found|
