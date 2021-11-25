@@ -128,6 +128,10 @@ By using the c programming language we generate libaray management system
 |LP01|Adding Entry  |Details to Enter | Details added Successfully | Details added Successfully |
 |LP02|Search Entry|Enter ID no. |If present Display, if not say not found | If present Display, if not say not found|
 |LP03|Deleting entry||Enter ID no. |If present delete, if not say not found| |If present delete, if not say not found|
+## Output:
+![result](https://user-images.githubusercontent.com/94338784/143387539-a63a8f7b-d5cc-4cf5-8eb3-e4bf09f51adc.png)
+
+![result1](https://user-images.githubusercontent.com/94338784/143387589-4d92908e-ecef-4d12-ac8b-13af5b51d970.png)
 
 
 
