@@ -63,3 +63,5 @@ How
 By using the c programming language we generate libaray management system
 
 
+## Design
+![STRUCTURE ](https://user-images.githubusercontent.com/94338784/143382565-f15d24b9-d258-464c-98a5-9c5d28740ad5.png)
