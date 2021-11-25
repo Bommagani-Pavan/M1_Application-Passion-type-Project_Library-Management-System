@@ -6,6 +6,9 @@ Folder Structure
    | ----------     |--------------------  |          
    | Header.h       | All header files     |
    | Source.c       | Main source code     |
+ 
+ 
+ 
  Manual
 Setup to run Project
 An integrated development environment (Suggesting Visual Studio Code).
